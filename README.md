@@ -7,4 +7,4 @@ The CSS was a struggle, especially responsiveness and working with the images fr
 
 ## View it live
 
-https://gregarious-crostata-717649.netlify.app/
+https://project-movie-week8.netlify.app/
